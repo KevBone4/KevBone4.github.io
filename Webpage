@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Hello World! </title>
+</head>
+<body>
+  <h1> Howdy</h1>
+     <p> If you are reading this then my webpage is working. </p>
+     <img src="https://media.giphy.com/media/QnMJm9bVR9nDa/giphy.gif">
+  <h2> Check out my bois on soundcloud: <br>
+     <a href="https://soundcloud.com/jxsire">JXSIRE</a> <a href="https://soundcloud.com/dp-duhon">Dr. Mankowits</a></h2>  
+  <h2> Yours truly, <br>KevBone </h2>
+  <img src= "https://i.pinimg.com/originals/30/1c/e4/301ce4cefa83b88a5a13611257cf183d.jpg" width="200" height="200" title="Rotary Engine" alt="A pic of a rotary engine">
+</body>
+</html>
